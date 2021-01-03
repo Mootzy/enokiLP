@@ -1,2 +1,0 @@
-# enokiLP
-enoki landing page 
