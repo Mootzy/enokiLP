@@ -10,7 +10,7 @@
 @font-face { font-family: 'Lato'; src: url("../fonts/Lato-Black.eot"); src: local("Lato Black"), local("Lato-Black"), url("../fonts/Lato-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff"), url("../fonts/Lato-Black.ttf") format("truetype"); font-weight: 900; font-style: normal; }
 /* variable */
 /* reset */
-html, body { font-family: "Lato", sans-serif; font-size: 18px; line-height: 1.66; font-weight: 300; color: #4a4a4a; }
+html, body { font-family: "Lato", sans-serif; font-size: 30px; line-height: 1.66; font-weight: bold; color: #000000; }
 
 @media (min-width: 576px) { html, body { font-size: 18px; line-height: 1.66; font-weight: 300; line-height: 1.41; } }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-weight: 900; font-family: "Lato", sans-serif; line-height: 1.3; }
